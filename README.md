@@ -1,11 +1,10 @@
 - Welcome to my page, I'm minefrac1, or Evan. I'm a CS student at NMT, and I'm looking to go into Software Development. I want to design things the average person will want to use.
 - Hobbies: Programming, Reading, Gaming, Game Development, Food
-- Currently developing a game with some friends - I'm the lead developer!
 - If you need to reach me, email minefrac1@gmail.com
-- If you really care that much about my pronouns, they're he/him
+- My pronouns are he/him
 - Favorite color: blue
 - Favorite game series: It's too hard to pick!
-- Dogs or cats: 🐶🐶🐶🐶🐶🐶🐶🐶🐶
+- Dogs or cats: 🐶
 - Favorite emoji: 🛺
 - Pet peeve: things you can *ONLY* do with commandline (it's a necessary evil...)
 
